@@ -1,6 +1,27 @@
 # Defect $ quasicrystals
 
 ## line defects in graphene
+> Structural Defects in Graphene 
+>> DOI: 10.1021/nn102598m\
+
+>> Defect types
+>>> point defects(Stone-wales defect) [7-member ring with 5-member ring]\
+>>> single vacancies[mix two rings]\
+>>> multiple vacancies\
+>>> carbon adatoms\
+>>> foreign adatoms\
+>>> topology of defective graphene\
+>>> one-Dimensional Defects 
+>>>> dislocation-like defects\
+>>>> defects at the edge of a graphene layer
+
+>>> defects in bilyaer graphene
+
+>> Creation of defects
+>>> crystal growth\
+>>> particle irradiation\
+>>> chemical methods
+
 
 ## generate large area of polymers with defect
 
