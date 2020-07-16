@@ -1,7 +1,13 @@
-# Defect $ quasicrystals
+# Defect & quasicrystals
+
+## generate large area of polymers with defect
+
+## which defects are most generative
+
+## How to shift a graphene to produce the defects
 
 ## line defects in graphene
-> Structural Defects in Graphene 
+> Structural Defects in Graphene(2011) 
 >> DOI: 10.1021/nn102598m\
 
 >> Defect types
@@ -22,12 +28,16 @@
 >>> particle irradiation\
 >>> chemical methods
 
+> Effect of Point and Line Defects on Mechanical and Thermal Properties of Graphene: A Review
+>> DOI: 10.1080/10408436.2015.1068160
 
-## generate large area of polymers with defect
+>> graphene defect engineering
+>>> how strutural defects affect the mechanical properties, thermal and electrical conductivities
 
-## which defects are most generative
+>> modeling techniques for graphene
 
-## Hwo to shift a graphene to produce the defects
+> not generating defects, it is just how defects influence.
+
 
 
 
