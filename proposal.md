@@ -1,4 +1,4 @@
-# Proposalac
+# Proposal
 
 ## Machine learning with quantum chemistry simulation
 
