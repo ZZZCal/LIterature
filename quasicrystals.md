@@ -71,4 +71,18 @@
 
 
 
+# Rigis body
+
+## Packing, tiling, and covering with tetrahedra
+> 1. doi:10.1073/pnas.0601389103
+> 2. constructions that tile regular tetrahedra in 3-D Euclidean space
+
+## A new approach to rigid body minimization with application to molecular docking
+> 1. doi:10.1109/CDC.2012.6426267
+
+## 
+
+
+
+
 
