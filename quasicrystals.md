@@ -71,7 +71,7 @@
 
 
 
-# Rigis body
+# Rigid body
 
 ## Packing, tiling, and covering with tetrahedra
 > 1. doi:10.1073/pnas.0601389103
