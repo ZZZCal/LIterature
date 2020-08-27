@@ -71,7 +71,7 @@
 
 
 
-# Rigid body
+# Rigid body/ Molecular docking/Penrose tiling substitution
 
 ## Packing, tiling, and covering with tetrahedra
 > 1. doi:10.1073/pnas.0601389103
@@ -80,8 +80,21 @@
 ## A new approach to rigid body minimization with application to molecular docking
 > 1. doi:10.1109/CDC.2012.6426267
 
-## 
+## Coordinate Mappings for Rigid Body Motions
+> 1. doi:10.1115/1.4034730
+> 2. This paper aims at providing an overview of the two prevailing coordinate mapping within the Lie group setting.
+> 3. ***The Rotating Rigid Body***
+> 4. ***Representation of Rotations*** (Rotation Matrices, Unitary Matrices, Unit Quaternions/Euler Parameters)
+> 5. ***Parameterizations of Rotations***
+> 6. ***Angular Velocity***
 
+## GEOMETRIC CHARACTERIZATION OF THE CONFIGURATION SPACE OF RIGID BODY MECHANISMS IN REGULAR AND SINGULAR POINTS
+> 1. doi:10.1115/DETC2005-84712
+> 2. Two additional objects are introduced in this paper: the ***kinematic tangent space*** and the ***kinematic tangent cone***.
+
+## Rigid Body Localization Using Sensor Networks
+> 1. doi:10.1109/TSP.2014.2336621
+> 2. A framework for ***joint position*** and ***orientation estimation*** of a rigid body using range measurements is proposed
 
 
 
