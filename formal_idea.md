@@ -1,3 +1,8 @@
-# ML has been used for properties:
+# ML used for properties:
 
-> 1. Bond Dissociation Energy
+## I. COF band gap
+
+> No readily available database of band gaps for COFs.
+> COFs are potential 
+
+Ideal: train set 
