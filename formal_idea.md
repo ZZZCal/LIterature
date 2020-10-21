@@ -18,13 +18,13 @@
 
 >> binary classfication model: (band gap value)
 
->>> metal / nonmetal (= 0 eV/ != 0 eV)
+>>> 1. metal / nonmetal (= 0 eV/ != 0 eV)
 
->>> conventional semiconductors/ nonconventional semiconductiors (in the range of 1-1.5 eV / no in the range of 1-1.5 eV)
+>>> 2. conventional semiconductors/ nonconventional semiconductiors (in the range of 1-1.5 eV / no in the range of 1-1.5 eV)
 
->>> wide bandgap materials (in the range of 2-4 eV/ not in the range of 2-4 eV)
+>>> 3. wide bandgap materials (in the range of 2-4 eV/ not in the range of 2-4 eV)
 
->>> bandgap data from Development and Applications of Wide Bandgap Semiconductors https://doi.org/10.1007/978-3-540-47235-3_1
+>>> --- bandgap data from Development and Applications of Wide Bandgap Semiconductors https://doi.org/10.1007/978-3-540-47235-3_1
 
 >> train the supervised machine learning model with the train set and classfication condtion:
 
