@@ -1,6 +1,6 @@
 # ML used for properties:
 
-## I. COF band gap
+## COF + band gap
 
 > No readily available database of band gaps for COFs.
 
@@ -37,3 +37,8 @@
 >>> COF database: https://github.com/core-cof/CoRE-COF-Database (olvent-free and disorder-free structure files of nearly all the experimental COFs published on literature)
 
 >>> calculate the band structure using VASP with common hybrid fucntional or pure functional to validate the ML results.
+
+
+# ML for quantum chemistry simulation:
+
+## 
