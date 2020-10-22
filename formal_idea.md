@@ -39,6 +39,20 @@
 >>> calculate the band structure using VASP with common hybrid fucntional or pure functional to validate the ML results.
 
 
-# ML for quantum chemistry simulation:
+# HT DFT with database ICSD
 
-## 
+## High-throughput DFT indentification of novel compound to clean the Surface Ullmann couling reaction Byproduct
+
+> Byproducts would be chemisorbed on metal surface after Surface Ullmann Coupling, which will prevent the coupling species to diffuse and interact
+
+> Anealing in H2 is the present method
+
+> Ideal:
+
+>> DFT calculation on the over 185,000 crystal structures in the ICSD database with three different halogen atoms. (maybe not all, just enough to establish a trainset for machine learning model) https://ucsd.libguides.com/crystallography/icsd
+
+>> Using binding energy as the final output as all data, and choose the 15 crystal with highest binding energy with halogen atoms
+
+>> utilize these 15 models with Surface Ullmann coupling reaction model and run MD to see whether the halogen atoms will be adsorbed by the chosen crystal after being adsorbed by metal surface.
+
+>> validated with experiment if there are candidates.
