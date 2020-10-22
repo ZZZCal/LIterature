@@ -45,7 +45,7 @@
 
 > Byproducts would be chemisorbed on metal surface after Surface Ullmann Coupling, which will prevent the coupling species to diffuse and interact
 
-> Anealing in H2 is the present method
+> Anealing in H2 is the present method(Cleaning up after the Party: Removing the byproducts of On-Surface Ullmann Coupling. DOI: 10.1021/acsnano.9b03812)
 
 > Ideal:
 
