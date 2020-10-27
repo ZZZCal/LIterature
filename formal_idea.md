@@ -39,6 +39,46 @@
 >>> calculate the band structure using VASP with common hybrid fucntional or pure functional to validate the ML results.
 
 
+# Machine Learning for Renewable Energy Storage
+
+## Electrocatalyst Design using Machine Learning for renewable energy storage.
+
+> discovering or optimizing catalysts remains a time-intensive process in DFT simulations
+
+> Machine Learning models could be a potentially efficient tool for large-scale exploration of new catalysts
+
+> Ideal: 
+
+>> Use ML to explore potential electrocatalysts for syngas, CO2 reduction and benzene.
+
+> methods: 
+
+> Train set: Open Catalyst 2020 (OC20) Dataset including
+
+>> 82 different adsorbates (small adsorbates, C1/C2 compounds, and N/O-containing inter- mediates)\
+>> Surface (catalysts) 5% chance of choosing a unary material, 65% chance for a binary material, and a 30% chance for a ternary material\
+>> DFT calculation of relaxation energy (264,900,500 single point evaluations) of various combination of adsorbates and catalysts
+
+
+> feature selection: 
+
+>> Atom feature: atom coordinates, position on periodic table, electronegativity, valence electrons, atomic volume
+>> Pair feature: bond types, bond lengths.
+>> 2D represent of a catalyst surface from a 3D model(miller index) 
+
+> test set: 
+>> adsorbates:
+>>> syngas: CH4 + H2O -> CO + 3H2
+>>> CO2 reduction: CO2 -> HCOOH, CO, C2H4, C2H5OH, CH4
+>>> benzene synthesize from CH4 (a lot of byproducts during the path)
+
+>> catalysts: 161,030 compounds in Inorganic Crystal Structure Database
+
+> validation: use DFT to validate the best candidates from ML model prediction.
+
+
+
+
 # HT DFT with database ICSD
 
 ## High-throughput DFT indentification of novel compound to clean the Surface Ullmann couling reaction Byproduct
